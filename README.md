@@ -1,4 +1,4 @@
-注意！由于F大x-ui已经停止更新，目前面板已经无法适应新版的xray内核的部分内容，本项目即日起归档。同时为了面板安全，请激活tls以保证安全，或使用其他开发者基于3x-ui开发的脚本，脚本推荐：``https://github.com/56idc/3x-ui-alpine``。
+注意！由于F大x-ui已经停止更新，目前面板不适配部分新版的xray内核的内容，本项目即日起归档。同时为了面板安全，若仍然使用请激活tls以保证安全，[3x-ui](https://github.com/MHSanaei/3x-ui)已经支持在Alpine linux安装，建议使用。
 # x-ui
 适配Alpine linux  使用F大编译的x-ui，支持reality协议  
 默认端口9000，可使用x-ui命令更换  
